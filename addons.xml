@@ -55,6 +55,10 @@
         <license>Creative Commons Non Commercial 3.0 License</license>
         <forum>http://forum.kodi.tv/forumdisplay.php?fid=221</forum>
         <source>https://github.com/jurialmunkey/skin.arctic.zephyr</source>
+        <assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
     </extension>
 </addon>
 </addons>

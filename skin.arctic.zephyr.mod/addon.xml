@@ -54,6 +54,10 @@
         <license>Creative Commons Non Commercial 3.0 License</license>
         <forum>http://forum.kodi.tv/forumdisplay.php?fid=221</forum>
         <source>https://github.com/jurialmunkey/skin.arctic.zephyr</source>
+        <assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
         <news>1.1.12[CR]- Cleanup the code[CR]Only icons version added to vertical multi widget homemenu[CR]- Added header label for hubs[CR]- Improvements on color-settings, blur settings[CR]- Switched to tmdbhelper for next aired info[CR]- More changes for matrix compatibility[CR][CR]1.1.1[CR]- First matrix version</news>
     </extension>
 </addon>
