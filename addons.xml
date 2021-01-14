@@ -2,7 +2,7 @@
 <addons>
 <addon
     id="skin.arctic.zephyr.mod"
-    version="1.1.16"
+    version="1.1.17"
     name="Arctic: Zephyr Matrix-MOD"
     provider-name="jurialmunkey, beatmasterrs">
     <requires>
