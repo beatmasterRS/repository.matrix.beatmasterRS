@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.arctic.zephyr.mod.autocolors" name="Arctic: Zephyr - Reloaded - Automatic Day/Night Colors" version="1.1.2" provider-name="semool">
+	<requires>
+		<import addon="xbmc.gui" version="5.15.0"/>
+		<import addon="script.module.simplecache" version="2.0.2"/>
+		<import addon="script.module.astral" version="2.2+matrix.2"/>
+		<import addon="script.module.requests" version="2.22.0+matrix.1"/>
+		<import addon="skin.arctic.zephyr.mod" minversion="1.1.28" version="19.1.28"/>
+	</requires>
+	<extension point="xbmc.python.script" library="script.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="startup"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Automatic time controlled theme color change between Light and Dark</summary>
+		<summary lang="de">Automatischer Zeitgesteuerter Skin Farbwechsel zwischen Hell und Dunkel</summary>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>

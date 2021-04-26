@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.module.astral" name="astral" version="2.2+matrix.2" provider-name="semool">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.pytz" version="2019.3.0+matrix.2"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Astral for Python</summary>
+		<description lang="en_GB">Astral is a python package for calculating the times of various aspects of the sun and phases of the moon</description>
+		<platform>all</platform>
+		<license>MIT</license>
+		<website>https://pypi.org/project/astral</website>
+		<source>https://github.com/sffjunkie/astral</source>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+	</extension>
+</addon>
