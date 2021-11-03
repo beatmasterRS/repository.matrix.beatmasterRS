@@ -1,3 +1,10 @@
+[B]1.1.61[/B]
+Improved container types
+Improved widget information for episodes
+Added indicators to featured home menu layout
+Added additional music flags
+Code improvements, cleanup
+
 [B]1.1.60[/B]
 Improved overall experience
 Fixed issues
@@ -219,8 +226,8 @@ Minor adjustments
 
 [B]1.1.29[/B]
 Improved widget diffuse textures
-Removed unneeded textures
 Added option to disable startup window
+Removed unneeded textures
 Fixed issues
 Added tvshow provider icons to extended infos
 Code cleanup
